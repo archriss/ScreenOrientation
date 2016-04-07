@@ -16,7 +16,7 @@
         <clobbers target="cordova.plugins.screenorientation" />
     </js-module>
 
-    <platform name="ios">
+    <!-- <platform name="ios">
         <config-file target="config.xml" parent="/*">
             <feature name="YoikScreenOrientation">
                 <param name="ios-package" value="YoikScreenOrientation" />
@@ -27,7 +27,7 @@
         </js-module>
         <header-file src="src/ios/YoikScreenOrientation.h" />
         <source-file src="src/ios/YoikScreenOrientation.m" />
-    </platform>
+    </platform> -->
 
     <platform name="android">
         <source-file src="src/android/net/yoik/cordova/plugins/screenorientation/YoikScreenOrientation.java" target-dir="src/net/yoik/cordova/plugins/screenorientation/" />
