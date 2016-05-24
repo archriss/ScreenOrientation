@@ -1,0 +1,18 @@
+{
+  "name": "archriss-screenorientation",
+  "version": "1.0.0",
+  "description": "Fork of screenOrientation plugin without iOS implementation",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archriss/ScreenOrientation.git"
+  },
+  "author": "Archriss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/archriss/ScreenOrientation/issues"
+  },
+  "homepage": "https://github.com/archriss/ScreenOrientation#readme"
+}
